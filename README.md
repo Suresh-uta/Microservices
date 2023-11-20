@@ -1,8 +1,6 @@
 # Spring Boot Microservices
 This repository contains the latest source code for  spring-boot-microservices 
 
-
-
 ## How to run the application using Docker
 
 1. Run `mvn clean package -DskipTests` to build the applications and create the docker image locally.
